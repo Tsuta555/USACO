@@ -1,7 +1,7 @@
 /*
 ID: u0605141
-LANG: C
 PROG: ride
+LANG: C
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,5 +33,4 @@ int main(){
 		fprintf(fout, "STAY\n");
 	
 	return 0;
-	
 }
