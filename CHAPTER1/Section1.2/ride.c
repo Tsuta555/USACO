@@ -32,5 +32,6 @@ int main(){
 	else
 		fprintf(fout, "STAY\n");
 	
+
 	return 0;
 }
