@@ -33,4 +33,5 @@ int main(){
 		fprintf(fout, "STAY\n");
 	
 	return 0;
+	
 }
